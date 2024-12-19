@@ -12,3 +12,9 @@ or:
     2- pip install keyboard
     
   ! it might require (root/administrator) previleges to acces the keyboard !
+
+
+demo   
+
+    https://github.com/user-attachments/assets/cd23dd04-c7b7-469c-a1f5-f42f3e258e28
+
