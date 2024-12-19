@@ -1,9 +1,14 @@
 # clicks-recorder-replayer
 A python Program To record and replay clicks with a user interface
 
-1- pip install pynput
+install requirements:
 
-2- pip install keyboard
+    pip install -r requirements.txt     
+    
+or:
 
-3- it might require (root/administrator) previleges to acces the keyboard
-
+    1- pip install pynput
+    
+    2- pip install keyboard
+    
+  ! it might require (root/administrator) previleges to acces the keyboard !
